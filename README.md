@@ -1,1 +1,2 @@
 # quant
+This is a platfom for testing the strategies onto quant-trading. Variety of finacial assets, for example commodities and stocks, could be employed to testing only if you have their marketing data. The strategy module was dependent by tech-based-index. So that one can one or a group of indexes to generate a specific trading signal. With the signal given, the asset will change in every bar, by which the frequency of marketing data that you employ.
